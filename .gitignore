@@ -2,7 +2,7 @@
 *.exe
 
 #ignore all files ends with pdf
-*.pdf
+#*.pdf
 
 #ignore all files ends with o
 *.o
